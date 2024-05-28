@@ -19,7 +19,7 @@
   - pip install diffusers
   - pip install transformers
   - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-
+- если не хотите вбивать команды вручную - установите через requirments.txt, который лежит в репозитории
 - скачайте архив BILLY_user.zip отсюда, распакуйте.
 - В директории BILLY_user откройте папку BILLY_user/app, запустите в вашем браузере файл index.html
 - В LM studio:
