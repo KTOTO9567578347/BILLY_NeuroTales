@@ -8,17 +8,17 @@
 - установите Microsoft C++ Build Tools
 - в консоли создайте venv, далее всё запускайте из него
 - в venv команды:
-  pip install openai
-  pip install python-socketio
-  pip install aiohttp
-  pip install googletrans==3.1.0a0
-  pip install httpx==0.27.0
-  pip install nltk
-  pip install numpy
-  pip install scikit-learn
-  pip install diffusers
-  pip install transformers
-  pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+  - pip install openai
+  - pip install python-socketio
+  - pip install aiohttp
+  - pip install googletrans==3.1.0a0
+  - pip install httpx==0.27.0
+  - pip install nltk
+  - pip install numpy
+  - pip install scikit-learn
+  - pip install diffusers
+  - pip install transformers
+  - pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 - скачайте архив BILLY_user.zip отсюда, распакуйте.
 - В директории BILLY_user откройте папку BILLY_user/app, запустите в вашем браузере файл index.html
